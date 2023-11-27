@@ -1,0 +1,10 @@
+nav {
+    background-color: rgb(13, 110, 253);
+}
+
+.nav-link, .active {
+    color: white;
+}
+.nav-link:hover{
+    color: rgb(199, 199, 199);
+}
